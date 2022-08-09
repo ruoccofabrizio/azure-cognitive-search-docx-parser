@@ -1,3 +1,4 @@
 azure-functions
 python-docx==0.8.11
 requests==2.26.0
+docxpy==0.8.5

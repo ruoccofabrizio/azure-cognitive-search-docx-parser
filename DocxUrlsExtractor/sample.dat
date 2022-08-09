@@ -1,0 +1,18 @@
+{
+    "values" : [{
+        "recordId" : "e1",
+        "data":{
+            "metadata_storage_path": "https://...",
+            "metadata_storage_sas_token": "?sp=r...",
+            "metadata_storage_file_extension": ".docx"
+        }
+    },
+    {
+        "recordId" : "e2",
+        "data":{
+            "metadata_storage_path": "https://...",
+            "metadata_storage_sas_token": "?sp=r...",
+            "metadata_storage_file_extension": ".docx"
+        }
+    }]
+}
